@@ -1,11 +1,11 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "rader_chart_checker",
+    "short_name": "rader_chart_checker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Rader Chart Checker  by Hagakun & Jun Ikematsu",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
